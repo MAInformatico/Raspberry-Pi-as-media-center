@@ -1,0 +1,8 @@
+To build our media center we need the following:
+-A HDMI cable
+-A SD memory card
+-A Mobile phone charger with microUSB connection
+-A Mini-keyboard (this will be connected via USB)
+Network-Cable RJ45 (or a WiFi card via USB)
+-TV With HDMI port
+
